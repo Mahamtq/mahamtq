@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Maham! | Vibe Coder & Automation Builder
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamtq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Maham's GitHub Stats" />
+  <a href="https://github.com/Mahamtq">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahamtq&show_icons=true&theme=radical&hide_border=true" alt="Maham's GitHub Stats" />
+  </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamtq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Mahamtq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahamtq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -29,7 +33,9 @@ I'm a passionate developer exploring the frontiers of **Vibe Coding** and **Goog
 
 ### 📈 Activity Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamtq&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Mahamtq">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahamtq&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
