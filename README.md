@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Maham! | Vibe Coder & Automation Builder
 
-<!--
-**Mahamtq/mahamtq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamtq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Maham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamtq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a passionate developer exploring the frontiers of **Vibe Coding** and **Google Antigravity**. I focus on building practical automation projects that bridge the gap between AI potential and real-world utility.
+
+- 🔭 **Focus**: Building automation tools to streamline workflows and generate value.
+- 🌱 **Learning**: Deep diving into Google Antigravity and advanced AI orchestration.
+- ⚡ **Approach**: Embracing "Vibe Coding" to prototype rapidly and build what matters.
+
+---
+
+### 🛠️ Tech Stack & Learning Path
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **AI & Automation** | ![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 📈 Activity Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamtq&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect With Me
+- 💬 Ask me about: **Vibe Coding**, **AI Automation**, or **Google Antigravity**.
+- 👯 I’m looking to collaborate on: Innovative automation projects.
+
+---
+<p align="center">
+  <i>"Building the future, one vibe at a time."</i>
+</p>
