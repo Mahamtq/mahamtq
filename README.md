@@ -6,7 +6,8 @@
 
 ---
 
-### 💡 The Vision
+
+### 💡 The Vision:
 I build at the intersection of **AI Automation** and **Rapid Prototyping**. My focus is leverage: using **Google Antigravity** and advanced AI workflows to create practical, high-value systems.
 
 - 🛠️ **Current Focus**: High-efficiency automation tools.
